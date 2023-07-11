@@ -1,5 +1,5 @@
 ---
-title: "Welcome to a quotes"
+title: "Welcome to my blog"
 date: 2023-07-11
 ---
-Be consistent !!
+Be consistent in what u 'r doing!!
